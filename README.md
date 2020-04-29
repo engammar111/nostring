@@ -6,11 +6,14 @@
 [![npm bundle size (minified)](https://img.shields.io/badge/nostring-nostring-green)
 ]
 
-moves all spaces from a string.
 
-#Install
+
+# moves all spaces from a string.
+
+# Install
 \$ npm install @engammar111/nostring
-#Usage
+
+# Usage
 
 const nostring = require("@engammar111/nostring");
 
@@ -24,4 +27,4 @@ nostring(1337);
 // at tiny (<anonymous>:2:41)
 // at <anonymous>:1:1
 
-#nospace between strings
+# nospace between strings
