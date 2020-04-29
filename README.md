@@ -14,6 +14,7 @@
 \$ npm install @engammar111/nostring
 
 # Usage
+...
 
 const nostring = require("@engammar111/nostring");
 
@@ -26,5 +27,7 @@ nostring(1337);
 //=> Uncaught TypeError: nostring wants a string!
 // at tiny (<anonymous>:2:41)
 // at <anonymous>:1:1
+  
+...
 
 # nospace between strings
